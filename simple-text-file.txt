@@ -1,0 +1,17 @@
+{
+    "productCategoriesId"  :"6322f0858de198bc3bbfd507",
+        "title"  :"Shoes",
+        "price"  :10000,
+        "description"  :"Hello here is shoes available",
+        "image"  :"https://www.mail-signatures.com/wp-content/uploads/2019/02/How-to-find-direct-link-to-image_Blog-Picture.png"
+        }
+
+
+
+
+
+
+
+{
+    "categoryName":"Women"
+        }
